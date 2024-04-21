@@ -1,0 +1,39 @@
+.programInnerSlide2-headerContainer {
+    display: flex;
+    width: 100%;
+    padding: 5px;
+    padding-bottom: 20px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    column-gap: 15px;
+}
+
+.programInnerSlide2-extraTopPadding1 {
+    margin-top: 10px;
+}
+
+.programInnerSlide2-extraTopPadding2 {
+    margin-top: 30px;
+}
+
+.programInnerSlide2-iconTimeTable {
+    width: 53px;
+    height: 53px;
+    object-fit: contain;
+}
+
+.programInnerSlide2-titleHeader {
+    font-size: 16px;
+    font-weight: 400;
+    color: #121027;
+    line-height: 22px;
+}
+
+.programInnerSlide2-descriptionHeader {
+    font-size: 12px;
+    font-weight: 100;
+    color: #121027;
+    line-height: 21px;
+    font-family: 'Medium';
+}

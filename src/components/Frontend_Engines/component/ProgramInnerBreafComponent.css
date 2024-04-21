@@ -1,0 +1,46 @@
+.programInnerBreaf-textContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    background-color: #F2F4FD;
+    border-radius: 10px;
+    width: 95%;
+    text-align: right;
+}
+
+.programInnerBreaf-label {
+    font-family: "Medium";
+    text-align: center;
+    color: #121027;
+    font-size: 12px;
+    font-weight: 300;
+    width: auto;
+    -webkit-text-size-adjust: none;
+    direction: rtl;
+
+    /* -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none; */
+}
+
+::selection {
+    color: black;
+    background: rgba(255, 0, 0, .4);
+}
+
+.programInnerBreaf-title {
+    font-size: 14px;
+    font-weight: 100;
+    color: #121027;
+    /* line-height: 21px; */
+    text-align: right;
+}
+
+.programInnerBreaf-description {
+    font-size: 13px;
+    font-weight: 100;
+    color: #121027;
+    /* line-height: 21px; */
+    text-align: right;
+}

@@ -1,0 +1,54 @@
+.tabsContainerType2-tabsContainer {
+    background-color: orange;
+    width: 260px;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.tabsContainerType2-label {
+    font-family: "Medium";
+    text-align: center;
+    color: #121027;
+    font-size: 12px;
+    font-weight: 300;
+    width: auto;
+    -webkit-text-size-adjust: none;
+
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.tabsContainerType2-titleHeader {
+    font-size: 13px;
+    font-weight: 100;
+    /* color: #121027; */
+    line-height: 21px;
+}
+
+.tabsContainerType2-descriptionHeader {
+    font-size: 12px;
+    font-weight: 100;
+    color: #121027;
+    line-height: 21px;
+}
+
+.tabsContainerType2-contentContainer {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 10px;
+}
+
+.tabsContainerType2-tabFirst {
+    font-family: "Medium";
+    color: 'white';
+    border-start-start-radius: 12px;
+    border-end-start-radius: 12px;
+    overflow: 'hidden';
+    border-color: 'transparent';
+    border-width: 0px;
+    border-style: solid;
+}

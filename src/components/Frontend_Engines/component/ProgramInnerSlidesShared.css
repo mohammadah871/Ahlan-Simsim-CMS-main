@@ -1,0 +1,51 @@
+
+.programInnerSlides-innerContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.programInnerSlides-accordionNumberContainerOdd {
+    display: flex;
+    width: 28px;
+    min-width: 28px;
+    height: 28px;
+    border-radius: 8px;
+    background-color: #C4DE7F;
+    z-index: 10;
+    margin-top: 9px;
+    /* margin-right: -5px; */
+    margin-left: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.programInnerSlides-accordionNumberContainerEven {
+    display: flex;
+    width: 28px;
+    min-width: 28px;
+    height: 28px;
+    border-radius: 8px;
+    background-color: #8ECB5E;
+    z-index: 10;
+    margin-top: 9px;
+    /* margin-right: -5px; */
+    margin-left: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.programInnerSlides-number {
+    font-family: 'medium';
+    font-size: 16px;
+    color: white;
+    padding-top: 3px;
+}
+
+.programInnerSlides-verticalSplitter {
+    height: 100%;
+    width: 3px;
+    bottom: 0;
+    display: flex;
+    position: absolute;
+    background-color: white;
+}

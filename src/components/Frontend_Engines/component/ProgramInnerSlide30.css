@@ -1,0 +1,33 @@
+.programInnerSlide30-headerContainer {
+    display: flex;
+    width: 94%;
+    padding: 5px;
+    padding-bottom: 20px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    column-gap: 15px;
+}
+
+.programInnerSlide30-icon {
+    width: 65px;
+    height: 73px;
+    object-fit: contain;
+    display: flex;
+}
+
+.programInnerSlide30-textContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.programInnerSlide30-description {
+    text-align: right;
+    font-size: 13px;
+    font-weight: 100;
+    color: #121027;
+    line-height: 27px;
+    font-family: 'Medium';
+    margin-top: 8px;
+}

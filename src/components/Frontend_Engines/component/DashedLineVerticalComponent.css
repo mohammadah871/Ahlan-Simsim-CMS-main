@@ -1,0 +1,7 @@
+.dashedLine {
+    border: 1px dashed #121027;
+    position: absolute;
+    height: calc(100% - 70px);
+    margin-top: 35px;
+    margin-right: 12px;
+}

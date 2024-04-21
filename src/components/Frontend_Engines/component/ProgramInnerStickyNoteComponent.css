@@ -1,0 +1,20 @@
+.programInner-stickyNote1 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    position: absolute;
+}
+
+.programInner-stickyText {
+    margin-right: 37px;
+    margin-top: 48px;
+    position: absolute;
+    font-weight: 500;
+    width: 68%;
+    height: 69%;
+    max-height: 69%;
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

@@ -1,0 +1,23 @@
+.programInnerSlide25-goalsContainer {
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    overflow-y: hidden;
+    padding: 5px;
+    padding-right: 35px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    column-gap: 15px;
+}
+
+.programInnerSlide25-titleContainer {
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-right: 13px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}

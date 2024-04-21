@@ -1,0 +1,115 @@
+.programInnerSlide5-headerContainer {
+    display: flex;
+    width: 100%;
+    padding: 5px;
+    padding-bottom: 20px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    column-gap: 15px;
+}
+
+.programInnerSlide5-extraTopPadding1 {
+    margin-top: 10px;
+}
+
+.programInnerSlide5-extraTopPadding2 {
+    margin-top: 30px;
+}
+
+.programInnerSlide5-iconFile {
+    width: 21px;
+    height: 21px;
+    object-fit: contain;
+}
+
+.programInnerSlide5-iconFileContainer {
+    display: flex;
+    background-color: #319BF7;
+    width: 38px;
+    height: 38px;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.programInnerSlide5-iconDownloadContainer {
+    display: flex;
+    background-color: #319BF7;
+    width: 27px;
+    height: 27px;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.programInnerSlide5-titleHeader {
+    font-size: 16px;
+    font-weight: 400;
+    color: #121027;
+    line-height: 22px;
+}
+
+.programInnerSlide5-descriptionHeader {
+    font-size: 12px;
+    font-weight: 100;
+    color: #121027;
+    line-height: 21px;
+    font-family: 'Medium';
+}
+
+.programInnerSlide5-alignTextRight {
+    text-align: right;
+}
+
+.programInnerSlide5-listItemBtn {
+    display: flex;
+    flex-direction: row;
+    border-width: 0;
+    background-color: transparent;
+    padding: 3px;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.programInnerSlide5-bullet {
+    display: flex;
+    width: 4px;
+    height: 4px;
+    border-radius: 7px;
+    background-color: #121027;
+    margin: 5px;
+    margin-top: 10px;
+}
+
+.programInnerSlide5-bottomContainer {
+    display: flex;
+    position: relative;
+    width: 92%;
+    padding: 18px;
+    border-radius: 12px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    column-gap: 15px;
+    background-color: #F2F4FD;
+    overflow: hidden;
+}
+
+.programInnerSlide5-btnDownload {
+    display: flex;
+    width: 100px;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: #319BF7;
+    position: absolute;
+    left: 0;
+}
+
+.programInnerSlide5-iconSubjectsList{
+    width:44px;
+    height:63px;
+    object-fit: contain;
+}

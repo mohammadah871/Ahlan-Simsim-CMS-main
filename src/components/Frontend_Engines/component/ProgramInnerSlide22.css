@@ -1,0 +1,13 @@
+.programInnerSlide22-goalsContainer {
+    display:flex;
+    width: 100%;
+    overflow-x:auto;
+    flex-wrap: nowrap;
+    overflow-y: hidden;
+    padding: 5px;
+    padding-right: 35px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    column-gap: 15px;
+}

@@ -1,0 +1,17 @@
+.programInnerSlide31-headerContainer {
+    display: flex;
+    width: 94%;
+    padding: 5px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.programInnerSlide31-instructionsContainer {
+    display: flex;
+    width: 95%;
+    padding: 5px;
+    padding-bottom: 20px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}

@@ -1,0 +1,154 @@
+.programInnerSlide6-headerContainer {
+    display: flex;
+    width: 100%;
+    padding: 5px;
+    padding-bottom: 20px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    column-gap: 15px;
+}
+
+.programInnerSlide6-extraTopPadding1 {
+    margin-top: 10px;
+}
+
+.programInnerSlide6-extraTopPadding2 {
+    margin-top: 30px;
+}
+
+.programInnerSlide6-iconFile {
+    width: 21px;
+    height: 21px;
+    object-fit: contain;
+}
+
+.programInnerSlide6-iconFileContainer {
+    display: flex;
+    background-color: #319BF7;
+    width: 38px;
+    height: 38px;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.programInnerSlide6-iconDownloadContainer {
+    display: flex;
+    background-color: #319BF7;
+    width: 27px;
+    height: 27px;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.programInnerSlide6-titleHeader {
+    font-size: 16px;
+    font-weight: 400;
+    color: #121027;
+    line-height: 22px;
+}
+
+.programInnerSlide6-descriptionHeader {
+    font-size: 12px;
+    font-weight: 100;
+    color: #121027;
+    line-height: 21px;
+    font-family: 'Medium';
+}
+
+.programInnerSlide6-alignTextRight {
+    text-align: right;
+}
+
+.programInnerSlide6-listItemBtn {
+    display: flex;
+    flex-direction: row;
+    border-width: 0;
+    background-color: transparent;
+    padding: 3px;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.programInnerSlide6-bullet {
+    display: flex;
+    width: 4px;
+    height: 4px;
+    border-radius: 7px;
+    background-color: #121027;
+    margin: 5px;
+    margin-top: 10px;
+}
+
+.programInnerSlide6-bottomContainer {
+    display: flex;
+    position: relative;
+    width: 92%;
+    padding: 18px;
+    border-radius: 12px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    column-gap: 15px;
+    background-color: #F2F4FD;
+    overflow: hidden;
+}
+
+.programInnerSlide6-btnDownload {
+    display: flex;
+    width: 100px;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: #319BF7;
+    position: absolute;
+    left: 0;
+}
+
+.programInnerSlide6-iconSubjectsList {
+    width: 44px;
+    height: 63px;
+    object-fit: contain;
+}
+
+.programInnerSlide6-callContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-family: "medium";
+    font-size: 14px;
+    color: white;
+}
+
+.programInnerSlide6-speakerContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.programInnerSlide6-iconSpeaker {
+    width: 61px;
+    height: 61px;
+    display: block;
+}
+
+.programInnerSlide6-iconSpeakerEmpty {
+    width: 61px;
+    height: 61px;
+    display: block;
+}
+
+.programInnerSlide6-phoneIconContainer {
+    width: 100%;
+    margin-top: 7px;
+    margin-bottom: 13px;
+    display: flex;
+    justify-content: center;
+}
+
+.programInnerSlide6-phoneIcon {
+    width: 150px;
+    height: 65px;
+}
